@@ -1,8 +1,14 @@
-section {
+*{
+   font-family: 'Langar', cursive;   /*Universal Selector*/     
+}
+#Hello {
   background: #ff1b68;
 }
 
 h1 {
   color: white;
   font-family: 'Anton', sans-serif;
+}
+.section{
+  color: #2ddf5c;
 }
